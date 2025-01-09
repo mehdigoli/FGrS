@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "FGrS", "FGrS.vfproj", "{35C44463-147B-48DF-94D3-AA0BFD25638A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C44463-147B-48DF-94D3-AA0BFD25638A}.Debug|x64.ActiveCfg = Debug|x64
+		{35C44463-147B-48DF-94D3-AA0BFD25638A}.Debug|x64.Build.0 = Debug|x64
+		{35C44463-147B-48DF-94D3-AA0BFD25638A}.Debug|x86.ActiveCfg = Debug|Win32
+		{35C44463-147B-48DF-94D3-AA0BFD25638A}.Debug|x86.Build.0 = Debug|Win32
+		{35C44463-147B-48DF-94D3-AA0BFD25638A}.Release|x64.ActiveCfg = Release|x64
+		{35C44463-147B-48DF-94D3-AA0BFD25638A}.Release|x64.Build.0 = Release|x64
+		{35C44463-147B-48DF-94D3-AA0BFD25638A}.Release|x86.ActiveCfg = Release|Win32
+		{35C44463-147B-48DF-94D3-AA0BFD25638A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F18F450A-B8CA-46BA-BC2D-8FD7A8E8493B}
+	EndGlobalSection
+EndGlobal

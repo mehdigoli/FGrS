@@ -1,0 +1,16 @@
+D:/data/SH_model/EGM2008.gfc
+0
+360
+1
+1
+scatter
+30
+300
+60
+40
+300
+65
+1000.000
+input.txt
+output.txt
+6

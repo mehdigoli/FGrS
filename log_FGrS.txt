@@ -1,0 +1,17 @@
+                         _____ ____      ____   
+                        ||  ___/ ___|_ __/ ___|  
+                        || |_ | |  _| '__\___ \  
+                        ||  _|| |_| | |   ___) | 
+                        ||_|   \____|_|  |____/  
+                        -------------------------
+                    FGrS: Fast Gravimetric Synthesis V1.0
+Date:                              2024-10-8
+Time:                              13:22:15
+Functional oputput:                gravity and gravitational potential: W, V     
+Reference model:                   GRS80                                        
+Geopotential model file:           D:/data/SH_model/EGM2008.gfc
+Minimum used degree:               0
+Maximum used degree:               360
+Number of threads:                 6
+Input file does not exist: input.txt
+Input file does not exist: input.txt
