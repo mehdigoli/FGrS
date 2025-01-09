@@ -3,7 +3,7 @@ D:/data/SH_model/EGM2008.gfc
 360
 1
 1
-scatter
+grid
 30
 300
 60
